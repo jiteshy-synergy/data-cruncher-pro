@@ -1,6 +1,6 @@
 # Data Cruncher Pro
 
-**Data Cruncher Pro** is a high-performance, flexible data processing toolkit designed to handle large datasets with ease. With powerful features for file parsing, data filtering, and export capabilities, it’s perfect for data scientists, analysts, and developers working with complex data pipelines.
+Data Cruncher Pro is a high-performance, flexible data processing toolkit designed to handle large datasets with ease. With powerful features for file parsing, data filtering, and export capabilities, it’s perfect for data scientists, analysts, and developers working with complex data pipelines.
 
 ---
 
